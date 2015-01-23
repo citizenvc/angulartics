@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "angular": ">= 1.1.5",
-    "waypoints": "~2.0.3",
+    "waypoints": "git@github.com:citizenvc/waypoints#6fbbefdbbc1e02ab4ff911747423919ca611dbaf",
     "SHA-1": "*"
   },
   "devDependencies": {
